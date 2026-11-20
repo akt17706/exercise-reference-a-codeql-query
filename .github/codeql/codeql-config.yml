@@ -1,3 +1,5 @@
+init:
+  .github/codeql/codeql-config.yml
 packs:
   # Use these packs for JavaScript analysis
   javascript:
